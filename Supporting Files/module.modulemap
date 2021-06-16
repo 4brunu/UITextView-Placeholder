@@ -1,5 +1,5 @@
 framework module UITextView_Placeholder {
-    umbrella header "UITextView+Placeholder.h"
+    umbrella header "../Sources/UITextView+Placeholder/UITextView+Placeholder.h"
 
     export *
     module * { export * }
