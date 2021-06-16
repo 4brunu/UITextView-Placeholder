@@ -13,8 +13,7 @@ let package = Package(
     dependencies: [],
     targets: [
         .target(
-            name: "UITextView+Placeholder",
-            path: "Sources"
+            name: "UITextView+Placeholder"
         ),
     ]
 )
